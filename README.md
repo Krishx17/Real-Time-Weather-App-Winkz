@@ -1,4 +1,4 @@
-# Wink-Weather
+# Winkz-Weather
 
 Minimalistic Weather app using HTML, CSS, JavaScript and Open Weather API
 
